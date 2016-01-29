@@ -6,6 +6,7 @@ Code repository mirrors in China.
 * ruby gem, <https://ruby.taobao.org/>
 * homebrew, <https://lug.ustc.edu.cn/wiki/mirrors/help/homebrew.git>
 * homebrew bottles, <https://lug.ustc.edu.cn/wiki/mirrors/help/homebrew-bottles>
+* google font, replace the font css domain `fonts.googleapis.com` with `fonts.useso.com`
 
 ## Resources
 
